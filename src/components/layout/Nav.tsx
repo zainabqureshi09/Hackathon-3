@@ -10,7 +10,7 @@ const Nav = () => {
     <div className="w-full flex flex-col lg:px-[100px] px-[20px] lg:py-[20px] py-[10px]">
       <div className="flex justify-center lg:justify-start mb-[10px]">
         <Image
-          src="/foodtuck.png"
+          src="/Foodtuck.png"
           alt="logo"
           width={120}
           height={120}
@@ -60,7 +60,7 @@ const Nav = () => {
 
       {/* Mobile Navigation */}
       <div className="lg:hidden flex justify-between px-[30px]">
-        <Image src="/foodtuck.png" alt="logo" className="w-[150px] h-auto" width={120} height={120} />
+        <Image src="/Foodtuck.png" alt="logo" className="w-[150px] h-auto" width={120} height={120} />
         <Sheet>
           <SheetTrigger>
             <GiHamburgerMenu className="text-whitetext text-[34px] cursor-pointer" />
