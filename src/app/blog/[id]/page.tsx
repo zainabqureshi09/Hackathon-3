@@ -100,9 +100,9 @@ const page = ({params} : Paramsin) => {
                       <h1 className='font-bold'>Tags:</h1>
                       <h1 className='text-gray-600'>Resturant, Dinner, Pizza, Yummy.</h1>
                       </div>
-                      <h1 className='flex gap-3 text-gray-700'>Share: <a className="text-xl" href="https://pk.linkedin.com/in/ghaniya-khan-138919308" > <FaLinkedin /></a>
-                                <a className="text-xl" href="https://github.com/Ghaniya08"><IoLogoGithub  /></a>
-                                <a className="text-xl" href="https://instagram.com/ghaniya08">< FaInstagram/></a></h1>
+                      <h1 className='flex gap-3 text-gray-700'>Share: <a className="text-xl" href="https://www.linkedin.com/in/zainab-ayaz-3081482b5/" > <FaLinkedin /></a>
+                                <a className="text-xl" href="https://github.com/zainabqureshi09"><IoLogoGithub  /></a>
+                                <a className="text-xl" href="https://instagram.com/zainab.tsx">< FaInstagram/></a></h1>
                     </div>
                     <CommentSection/>
                 </div>
@@ -125,7 +125,7 @@ const page = ({params} : Paramsin) => {
           
         </div>
         <div className="flex-grow items-center ">
-            <Image src="/client.png" width={200} height={200} alt='client' className='ml-[50px]'/>
+            <Image src="/client.png" width={200} height={200} alt='client' />
           <h2 className="text-gray-900 text-lg title-font font-medium mb-3">
             Prince Miyako
           </h2>
