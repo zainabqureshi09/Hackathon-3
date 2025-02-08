@@ -24,7 +24,7 @@ const Bestfoodyproduct = () => {
   <div className="flex flex-wrap">
     <div className="lg:w-2/3 mx-auto">
       <div className="flex flex-wrap lg:w-[500px] lg:h-[300px] w-[330px] h-[130px] rounded-[6px] px-6 mb-4">
-       <Image src="/about1.png" width={200} height={200} alt='aboutpics' />
+       <Image src="/about1.png" width={400} height={200} alt='aboutpics' />
       </div>
       <div className="flex flex-row gap-5">
         <div className="lg:block hidden">
